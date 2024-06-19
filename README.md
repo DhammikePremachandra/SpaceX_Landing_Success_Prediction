@@ -76,7 +76,7 @@ The Logistic Regression model performed the best with a test accuracy of 94%, de
 ## Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/SpaceX_Landing_Success_Prediction.git
+   git clone https://github.com/DhammikePremachandra/SpaceX_Landing_Success_Prediction.git
    cd SpaceX_Landing_Success_Prediction
    ```
 
